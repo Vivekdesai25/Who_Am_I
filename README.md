@@ -7,7 +7,6 @@
 🌐 **[My GitHub Portfolio](https://vivekdesai25.github.io/Vivekdesai25/)**     
 📱 **Phone**: 6360228217
 
-
 📄 **[View My Resume (PDF)](https://github.com/Vivekdesai25/Who_i_am/raw/main/Vivek%20Desai%20Resume.pdf)**
 
 
