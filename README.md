@@ -53,27 +53,3 @@ Basics of `Operating Systems`, `Computer Networks`
 Want to see what I’ve been building?
 👀 Take a sneak peek into my coding world on GitHub!
 👉 [Explore My Repositories](https://github.com/Vivekdesai25) – You might just find something cool! 😄
-
-💡 Interested in exploring **Data Analytics** – especially how to extract insights, visualize trends, and support smarter decision-making through data  
-
-## 🛠️ Languages & Tools (Train & Test )
-
-**🧩 Backend & Database:**  
-`Python`, `Java`, `C`, `MongoDB`, `MySQL`  
-
-**🎨 Frontend:**  
-`HTML5`, `CSS3`  
-
-**⚙️ Frameworks & Libraries:**  
-`Django`,`Flask`,`NumPy`, `Matplotlib`, `Pandas`, `Seaborn`, `Scikit-learn`, `SciPy`  
-
-**☁️ Platforms & Tools:**  
-`Git`, `GitHub`, `AWS`, `VS Code Workbench` 
-
-**📚 Other Knowledge Areas:**  
-Basics of `Operating Systems`, `Computer Networks`  
-
-## 📂 Projects 
-Want to see what I’ve been building? 
-👀 Take a sneak peek into my coding world on GitHub!  
-👉 [Explore My Repositories](https://github.com/Vivekdesai25) – You might just find something cool! 😄 
