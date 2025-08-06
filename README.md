@@ -21,7 +21,6 @@
 
 💡 Interested in exploring **Data Analytics** – especially how to extract insights, visualize trends, and support smarter decision-making through data  
 
----
 
 ## 💼 Experience
 
