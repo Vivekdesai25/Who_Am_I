@@ -19,7 +19,7 @@
 
 🧑‍💻 I'm a **fresher**, currently learning and excited to build real-world projects.
 
-🌱 Currently Importing : **Data Visualization**, **Python frameworks**, **Tableau**, **Power BI** 
+🌱 Currently Importing : **Data Visualization**, **Python frameworks**, **Power BI** 
 
 💡 Interested in exploring **Data Analytics** – especially how to extract insights, visualize trends, and support smarter decision-making through data  
 
@@ -30,7 +30,6 @@
 
 During my one-month internship at EVOASTRA VENTURES, I gained valuable **hands-on experience** in data science. This role allowed me to work with real-world datasets, collaborate effectively within a team environment, and develop skills in **web scraping** and other data collection techniques.
 
----
 
 ## 🛠️ Languages & Tools (Train & Test)
 
@@ -49,7 +48,7 @@ During my one-month internship at EVOASTRA VENTURES, I gained valuable **hands-o
 **📚 Other Knowledge Areas:**
 Basics of `Operating Systems`, `Computer Networks`
 
----
+
 
 ## 📂 Projects
 Want to see what I’ve been building?
