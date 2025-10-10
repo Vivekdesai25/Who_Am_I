@@ -9,7 +9,7 @@
 
 💻 **[My LeetCode](https://leetcode.com/u/vivek252003/)**
 
-🌐 **[My GitHub Portfolio](https://vivekdesai25.github.io/Vivekdesai25/)**
+🌐 **[My GitHub Portfolio](https://vivekdesai25.github.io/CodePulse-Vivek/)**
 
 📱 **Phone**: 6360228217
 
